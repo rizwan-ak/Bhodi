@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bhodi/static/css/main.6d5964be.chunk.css",
+    "main.css": "/bhodi/static/css/main.81d78a82.chunk.css",
     "main.js": "/bhodi/static/js/main.cefac829.chunk.js",
     "main.js.map": "/bhodi/static/js/main.cefac829.chunk.js.map",
     "runtime-main.js": "/bhodi/static/js/runtime-main.7d4d0796.js",
@@ -8,9 +8,9 @@
     "static/js/2.c97d8be1.chunk.js": "/bhodi/static/js/2.c97d8be1.chunk.js",
     "static/js/2.c97d8be1.chunk.js.map": "/bhodi/static/js/2.c97d8be1.chunk.js.map",
     "index.html": "/bhodi/index.html",
-    "precache-manifest.2adff2e3792ce7fbb51da1c2b5efc63c.js": "/bhodi/precache-manifest.2adff2e3792ce7fbb51da1c2b5efc63c.js",
+    "precache-manifest.b6f8b7ce7808e42cd96148326db5063f.js": "/bhodi/precache-manifest.b6f8b7ce7808e42cd96148326db5063f.js",
     "service-worker.js": "/bhodi/service-worker.js",
-    "static/css/main.6d5964be.chunk.css.map": "/bhodi/static/css/main.6d5964be.chunk.css.map",
+    "static/css/main.81d78a82.chunk.css.map": "/bhodi/static/css/main.81d78a82.chunk.css.map",
     "static/js/2.c97d8be1.chunk.js.LICENSE.txt": "/bhodi/static/js/2.c97d8be1.chunk.js.LICENSE.txt",
     "static/media/Chat.css": "/bhodi/static/media/bgImg.6d1e2a04.jpg",
     "static/media/dp.jpg": "/bhodi/static/media/dp.aebe360d.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.7d4d0796.js",
     "static/js/2.c97d8be1.chunk.js",
-    "static/css/main.6d5964be.chunk.css",
+    "static/css/main.81d78a82.chunk.css",
     "static/js/main.cefac829.chunk.js"
   ]
 }

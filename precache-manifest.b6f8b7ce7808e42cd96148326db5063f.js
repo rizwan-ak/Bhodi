@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3aa87575f0a7411fe2122bccbee1b35",
+    "revision": "8076997ec0035323d3f9a50fa786ce93",
     "url": "/bhodi/index.html"
   },
   {
-    "revision": "bec97982a85997a1b5d1",
-    "url": "/bhodi/static/css/main.6d5964be.chunk.css"
+    "revision": "8fae95f7acedc8f68096",
+    "url": "/bhodi/static/css/main.81d78a82.chunk.css"
   },
   {
     "revision": "11fc238ae8ddae2f5d2e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bhodi/static/js/2.c97d8be1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bec97982a85997a1b5d1",
+    "revision": "8fae95f7acedc8f68096",
     "url": "/bhodi/static/js/main.cefac829.chunk.js"
   },
   {
