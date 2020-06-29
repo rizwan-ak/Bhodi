@@ -1,0 +1,63 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  width: 5px;
+  background: white;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 1em;
+  background-color: lightgray;
+  outline: 1px solid white;
+  border-radius: 1rem;
+}
+
+.chatBG {
+  background: lightblue url("../../assets/bgImg.jpg") fixed center;
+  background-color: #cccccc;
+  object-fit: cover;
+  height: auto;
+  min-height: 100vh;
+}
+input[type="text"] {
+  background-color: #f9f9f9;
+  border: 0;
+  border-radius: 0;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  box-shadow: inset 0 0 0;
+  background-color: #f9f9f9;
+}
+
+.speechBubble {
+  position: relative;
+  background: #faf3f4;
+  border-radius: 0;
+  height: fit-content;
+}
+
+.speechBubble:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 0;
+  height: 0;
+  border: 20px solid transparent;
+  border-right-color: #faf3f4;
+  border-left: 0;
+  margin-top: -20px;
+  margin-left: -20px;
+}
+.myBGColor {
+  background: #f9f9f9;
+}
+.myOverFlow {
+  height: 70vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
